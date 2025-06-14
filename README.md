@@ -4,4 +4,4 @@ tecnologias Utilizadas
 
 <img src="https://skillicons.dev/icons?i=html,css" />
 
-<img srch="Projeto-Anabela.png">
+<img srch="./imagens/Projeto-Anabela.png">
