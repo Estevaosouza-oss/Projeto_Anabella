@@ -10,4 +10,5 @@ tecnologias Utilizadas
 ### Proposta do Projeto
 
 Projeto feito com unica e exclusiva proposta de aprender mais sore HTML e CSS.
+Abas e Links dentro do site todos funcionais
 Todas as imagens foram disponibilizadas no curso (modelo e nome ficticio).
